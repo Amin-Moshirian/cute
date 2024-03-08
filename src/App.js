@@ -62,7 +62,7 @@ function App() {
               for="default-radio-1"
               className="ms-2 text-2xl font-large text-gray-900 dark:text-gray-300"
             >
-              😍 بله خیلی کیوتی{" "}
+              😍 بله خیلی کیوت هستن{" "}
             </label>
           </div>
           {count < 2 ? (
